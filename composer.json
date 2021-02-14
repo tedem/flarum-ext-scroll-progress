@@ -1,0 +1,44 @@
+{
+  "name": "tedem/flarum-ext-scroll-progress",
+  "description": "Add a scroll progress on the bottom of screen.",
+  "keywords": [
+    "tedem",
+    "flarum",
+    "scroll",
+    "progress"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/tedem/flarum-ext-scroll-progress/issues",
+    "source": "https://github.com/tedem/flarum-ext-scroll-progress",
+    "forum": "https://discuss.flarum.org"
+  },
+  "homepage": "https://flarum.org",
+  "require": {
+    "flarum/core": ">=0.1.0-beta.15 <0.1.0-beta.16"
+  },
+  "authors": [
+    {
+      "name": "tedem",
+      "email": "hey@tedem.dev",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "tedem\\ScrollProgress\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Scroll Progress",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-window-minimize",
+        "backgroundColor": "#4d698e",
+        "color": "#fff"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+/*!
+ * This file is part of tedem/flarum-ext-scroll-progress.
+ *
+ * Copyright (c) 2021 Medet "tedem" Erdal.
+ *
+ * For the full copyright and license information, please view the LICENSE.md
+ * file that was distributed with this source code.
+ */
+
+.scroll-progress {
+  --scroll-progress-color: @config-primary-color;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10000;
+  height: 0.25rem;
+  background: linear-gradient(
+    to right,
+    var(--scroll-progress-color) var(--scroll-progress-value),
+    transparent 0
+  );
+  background-repeat: no-repeat;
+}
