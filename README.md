@@ -1,6 +1,6 @@
 # Scroll Progress
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/tedem/flarum-ext-scroll-progress.svg)](https://packagist.org/packages/tedem/flarum-ext-scroll-progress)
+![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/tedem/flarum-ext-scroll-progress.svg)](https://packagist.org/packages/tedem/flarum-ext-scroll-progress) [![Total Downloads](https://img.shields.io/packagist/dt/tedem/flarum-ext-scroll-progress.svg)](https://packagist.org/packages/tedem/flarum-ext-scroll-progress)
 
 A [Flarum](https://flarum.org) extension. Add a scroll progress on the bottom of screen.
 
