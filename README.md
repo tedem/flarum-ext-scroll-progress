@@ -28,7 +28,9 @@ composer update tedem/flarum-ext-scroll-progress
 
 ### Links
 
+- [Github](https://github.com/tedem/flarum-ext-scroll-progress)
 - [Packagist](https://packagist.org/packages/tedem/flarum-ext-scroll-progress)
+- [Extiverse](https://extiverse.com/extension/tedem/flarum-ext-scroll-progress)
 
 ### Versioning
 
