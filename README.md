@@ -38,4 +38,4 @@ I use [SemVer](https://semver.org/) for versioning.
 
 ### Authors
 
-- **Medet "tedem" Erdal** - _Initial work_ - [tedem](https://github.com/tedem)
+- **Medet Erdal** - _Initial work_ - [tedem](https://github.com/tedem)
